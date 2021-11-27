@@ -1,4 +1,4 @@
-# problem link: https://www.hackerrank.com/challenges/coin-change/problem?isFullScreen=false
+# problem link: https://www.hackerrank.com/challenges/k-factorization/problem?isFullScreen=false
 # to test the code please go to the following link and copy paste the codes below and submit it
 
 
